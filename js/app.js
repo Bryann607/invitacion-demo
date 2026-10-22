@@ -8,7 +8,7 @@ const CFG={
     vestimenta:'Código de vestimenta: formal',
     frase:'Medio siglo de amor, sueños y alegrías. Acompáñame a brindar por lo vivido y por todo lo bello que está por venir.'
   };
-  /* ======================================================= */
+  /* ====================================================== */
   const $=s=>document.querySelector(s),D=new Date(CFG.fecha),tz={timeZone:'America/Lima'};
   const F=(o)=>D.toLocaleDateString('es-PE',{...tz,...o});
   const val={nombre:CFG.nombre,apellidos:CFG.apellidos,frase:CFG.frase,lugar:CFG.lugar,direccion:CFG.direccion,vestimenta:CFG.vestimenta,
