@@ -2,9 +2,9 @@
 const CFG={
     nombre:'Yesica', apellidos:'PACHAS YANAC', edad:50,
     fecha:'2026-10-24T20:00:00-05:00',      // año-mes-día T hora (Perú = -05:00)
-    lugar:'Salón de Eventos Los Jardines',
-    direccion:'Av. Grau 450, Chincha Alta, Ica',
-    mapa:'https://www.google.com/maps/search/?api=1&query=Chincha+Alta',
+    lugar:'Urb Los Viñedos Mzb7 Lt6',
+    direccion:'Techo Propio, Grocio Prado',
+    mapa:'https://maps.app.goo.gl/fFEDi6sPYPph6kL96',
     vestimenta:'Código de vestimenta: formal',
     frase:'Medio siglo de amor, sueños y alegrías. Acompáñame a brindar por lo vivido y por todo lo bello que está por venir.'
   };
