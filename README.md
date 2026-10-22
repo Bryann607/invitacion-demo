@@ -1,2 +1,2 @@
-# prueba_supabase
-Prueba de base de datos en la nube, supabase
+# Demo invitacion
+Demo de una invitacion hecha en 5 minutos con IA
